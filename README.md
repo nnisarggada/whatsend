@@ -27,7 +27,7 @@ If you'd like to contribute to the development of this web app, please follow th
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/nnisarg/whatsend
+   git clone https://github.com/nnisarggada/whatsend
    ```
 
 2. Install the dependencies:
